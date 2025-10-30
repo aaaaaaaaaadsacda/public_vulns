@@ -1,4 +1,4 @@
-<img width="1377" height="810" alt="image" src="https://github.com/user-attachments/assets/2cee02a5-da26-4a6c-b7c3-032ab0dfdd6b" />### 💥 Vulnerability Report : SQL Injection in
+💥 Vulnerability Report : SQL Injection in
 
 ------
 
