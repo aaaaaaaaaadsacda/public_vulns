@@ -1,4 +1,4 @@
-### 💥 Vulnerability Report : SQL Injection in
+<img width="1377" height="810" alt="image" src="https://github.com/user-attachments/assets/2cee02a5-da26-4a6c-b7c3-032ab0dfdd6b" />### 💥 Vulnerability Report : SQL Injection in
 
 ------
 
@@ -55,8 +55,10 @@ contentId=1249&userId=1&siteId=1&tableName=&status=0&title=%E4%B9%98%E7%9D%80%E6
 If vulnerable, the response will contain an error message such as:
 
 
+![Uploading 54f90a10de749eaef435217c6cd50ac3.png…]()
 
-![image-20251030094805612](C:\Users\王小二\AppData\Roaming\Typora\typora-user-images\image-20251030094805612.png)
+
+
 
 **6. Vulnerable Code Reference**
 
@@ -99,5 +101,6 @@ The above code receives the 'content' parameter input from the client and direct
 
 
 **8. References:**
+
 
 https://gitee.com/westboy/CicadasCMS
