@@ -5,7 +5,7 @@
 **1. Product:**
 
 - **Name:**  CicadasCMS
-- **Version:** latest version
+- **Version:** 1.0
 - **Repository:** https://gitee.com/westboy/CicadasCMS
 
 ------
@@ -38,9 +38,9 @@ Accept-Encoding: gzip, deflate
 Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 X-Requested-With: XMLHttpRequest
 Content-Length: 751
-Origin: http://localhost
+Origin: http://xxxx
 Connection: close
-Referer: http://localhost/system
+Referer: http://xxxxx/system
 Cookie: bjui_theme=blue; SESSION=f43bf728-f5bf-4110-9b1f-58cca099b88a
 Sec-Fetch-Dest: empty
 Sec-Fetch-Mode: cors
@@ -99,5 +99,6 @@ The above code receives the 'content' parameter input from the client and direct
 
 
 **8. References:**
+
 
 https://gitee.com/westboy/CicadasCMS
